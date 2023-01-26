@@ -1,0 +1,22 @@
+{
+    "name": "tarasov-krk/equipment",
+    "description": "",
+    "authors": [
+        {
+            "name": "Tarasov Andrey",
+            "email": "tarasov.krk@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Equipment\\": ""
+        }
+    }
+}
